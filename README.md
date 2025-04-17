@@ -1,0 +1,1 @@
+# csharpgyakA2_teszteles
