@@ -1,1 +1,1 @@
-# CSsharp gyakorlat A2 teszteles
+# CSharp gyakorlat A2 teszteles
